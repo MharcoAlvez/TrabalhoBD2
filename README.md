@@ -1,6 +1,6 @@
 # TrabalhoBD2
 
-Nome: Marco Antônio da Silva Alves.
+Nome: Marco Antônio da Silva Alves, Nicolas Perim.
 
 
 Matrícula: 202202936.
