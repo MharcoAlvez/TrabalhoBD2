@@ -1,5 +1,7 @@
 INSERT INTO funcionario(primeiro_nome, ultimo_nome, cpf, data_nascimento, endereco, sexo, salario, cpf_supervisor, numero_departamento )  
-VALUES ('Marco', 'Alves', '88866555576', '1980-10-10', 'Minha rua,19,Vila Velha, ES','M','55000', '88866555576', 1),
+VALUES ('Marco', 'Alves', '88866555576', '31-10-2002', 'Minha rua,19,Vila Velha, ES','M','55000', '88866555576', 1),
+('Nicolas', 'Perrim', '12345678910', '01-01-2003', 'Rua dele,119,Vila Velha, ES','M','55000', '88866555576', 1),
+('Lucas', 'Lima', '88866555576', '1980-10-10', 'Rua dele2,226,Vila Velha, ES','M','55000', '88866555576', 1),
 ("Paul","Clark","73629099548","1986-05-30","9190 Nonummy Rd.","M","10000","88866555576",1),   
 ("Kyle","Brewer","96632023254","1989-03-25","P.O. Box 483, 2271 Cursus. Road","M","20000","88888888888",2),   
 ("Christian","Cabrera","26456088709","1978-06-12","7634 Duis Ave","M","20000","88888888888",2),   
